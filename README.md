@@ -1,14 +1,14 @@
 ```js
 import Developer from 'thewriterl';
 
-class AboutMe extends Desenvolvedor {
+class AboutMe extends Developer {
   name     = 'Luiz Fernando França';
   position    = 'Senior Backend Developer';
   company  = 'labsit.io';
   isRemote = true;
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   programming_languages  = ['Java', 'Kotlin', 'Node', 'Swift'];
   frameworks = ['Spring', 'Kafka', 'Express', 'SwiftUI', '...'];
 }
